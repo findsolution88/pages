@@ -1,0 +1,23 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDF6EC" />
+      <stop offset="1" stop-color="#F1F6F0" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="170" cy="110" r="90" fill="#FCE9CE" />
+  <circle cx="1040" cy="80" r="120" fill="#EAF3EC" />
+  <rect x="90" y="140" width="1020" height="370" rx="40" fill="#FFFFFF" stroke="#E6DDD0" stroke-width="2" />
+  <text x="150" y="240" fill="#2F5E4E" font-size="28" font-family="Noto Serif KR, Nanum Myeongjo, serif" font-weight="600">추가 수요조사</text>
+  <text x="150" y="320" fill="#1F1F1F" font-size="54" font-family="Noto Serif KR, Nanum Myeongjo, serif" font-weight="600">
+    등원·취침 준비 루틴 안내 기기
+  </text>
+  <text x="150" y="390" fill="#5C5C5C" font-size="30" font-family="Noto Sans KR, Apple SD Gothic Neo, sans-serif">
+    말 대신 화면 순서로 안내하는 가정용 도구
+  </text>
+  <rect x="150" y="430" width="260" height="48" rx="24" fill="#2F5E4E" />
+  <text x="178" y="462" fill="#FFFFFF" font-size="20" font-family="Noto Sans KR, Apple SD Gothic Neo, sans-serif" font-weight="600">
+    간단한 수요조사
+  </text>
+</svg>
