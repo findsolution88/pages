@@ -1,10 +1,3 @@
-const FORM_LINK = "https://forms.gle/Lrhpf3tNNxsHa7Nx6";
-
-const formLinkTargets = document.querySelectorAll("[data-form-link]");
-formLinkTargets.forEach((el) => {
-  el.href = FORM_LINK;
-});
-
 const revealElements = document.querySelectorAll("[data-reveal]");
 
 if (!("IntersectionObserver" in window)) {
