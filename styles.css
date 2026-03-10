@@ -184,6 +184,29 @@ a {
   height: auto;
 }
 
+.review-capture {
+  margin: 22px auto 0;
+  max-width: 720px;
+  border-radius: 22px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: var(--surface-strong);
+  box-shadow: var(--shadow-soft);
+}
+
+.review-capture img {
+  width: 100%;
+  display: block;
+  height: auto;
+}
+
+.review-capture figcaption {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--muted-light);
+}
+
 .problem-story {
   margin: 18px auto 0;
   max-width: 720px;
@@ -481,6 +504,10 @@ a {
   }
 
   .problem-capture {
+    border-radius: 18px;
+  }
+
+  .review-capture {
     border-radius: 18px;
   }
 
