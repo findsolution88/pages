@@ -1,4 +1,4 @@
-const FORM_LINK = "https://forms.gle/your-form-link";
+const FORM_LINK = "https://forms.gle/Lrhpf3tNNxsHa7Nx6";
 
 const formLinkTargets = document.querySelectorAll("[data-form-link]");
 formLinkTargets.forEach((el) => {
